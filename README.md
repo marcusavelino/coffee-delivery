@@ -17,5 +17,3 @@ Aplicação Nextjs, lógica de carrinho de compras.
  - context
  - styled-components
  - localStorage
-
-![coffedelivery](https://user-images.githubusercontent.com/11169770/230103957-e3118b2f-a1de-44f8-9dba-58af9c578cb3.png)
